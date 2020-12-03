@@ -1,0 +1,8 @@
+name: rise
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipython
+  - rise
+  - jupyter
